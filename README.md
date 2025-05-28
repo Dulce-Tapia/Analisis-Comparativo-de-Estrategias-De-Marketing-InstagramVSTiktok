@@ -51,7 +51,6 @@ outputs
 README.md+
 
 ## 🚀 Cómo ejecutar el proyecto
-1. Clona este repositorio:https://github.com/tu_usuario/marketing-instagram-vs-tiktok.git
-cd marketing-instagram-vs-tiktok
+1. Clona este repositorio https://github.com/Dulce-Tapia/Analisis-Comparativo-de-Estrategias-De-Marketing-InstagramVSTiktok.git
 2. Ejecuta los scripts SQL en tu motor de base de datos.
 3. Abre el archivo dashboard.twbx en Tableau para explorar el análisis.
