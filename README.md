@@ -36,18 +36,16 @@ El objetivo es identificar patrones y estrategias más efectivas para optimizar 
 👉 View the interactive dashboard on **[Tableau Public](https://public.tableau.com/app/profile/dulce.tapia)**  
 
 ## 📁 Project Structure
-Analisis-de-Crecimiento-del-Ecommerce-en-EU
+Analisis-Comparativo-de-Estrategias-De-Marketing-InstagramVSTiktok
 data
-- /usa_ecommerce_data.csv
-scripts
-- /Analisis-de-Ecommerce.Rmd
-- /Analisis_ecommerce.R
-outputs
--/Analisis Estrategico del Crecimiento del E-commerce en EE. UU..twbx
--/Dashboard_Analisis.png
--/plots/Rplot.png
--/plots/Rplot01.png
--/plots/Rplot02.png
+- /Clean_Social_Media.csv
+- /Viral_Social_Media_Trends.csv
+SQL
+- /AnalisisEstrategicoMKT.sql
+Tableau
+-/Redes.twbx
+Imagen
+-/dashboard.png
 README.md+
 
 ## 🚀 Cómo ejecutar el proyecto
