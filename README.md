@@ -28,13 +28,27 @@ El objetivo es identificar patrones y estrategias más efectivas para optimizar 
 | **GitHub** | Control de versiones         |
 
 ## 📈 Key Findings
-Instagram tiene un engagement promedio más alto que TikTok.
-Los hashtags relacionados con humor y retos dominan en TikTok.
-Instagram destaca en moda y estilo de vida, con menor volumen de shares.
+- 💹 Instagram tiene un engagement promedio más alto que TikTok.
+- 💹 Los hashtags relacionados con humor y retos dominan en TikTok.
+- 💹 Instagram destaca en moda y estilo de vida, con menor volumen de shares.
 
 ## 📊 Tableau Dashboard
+👉 View the interactive dashboard on **[Tableau Public](https://public.tableau.com/app/profile/dulce.tapia)**  
 
 ## 📁 Project Structure
+Analisis-de-Crecimiento-del-Ecommerce-en-EU
+data
+- /usa_ecommerce_data.csv
+scripts
+- /Analisis-de-Ecommerce.Rmd
+- /Analisis_ecommerce.R
+outputs
+-/Analisis Estrategico del Crecimiento del E-commerce en EE. UU..twbx
+-/Dashboard_Analisis.png
+-/plots/Rplot.png
+-/plots/Rplot01.png
+-/plots/Rplot02.png
+README.md+
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona este repositorio:https://github.com/tu_usuario/marketing-instagram-vs-tiktok.git
